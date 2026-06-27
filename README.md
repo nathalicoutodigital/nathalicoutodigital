@@ -4,7 +4,7 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas e Engenharia de Software, em transição para a área de Tecnologia.  
 Tenho experiência em atendimento ao público e área comercial, o que me trouxe visão de negócio e comunicação com pessoas.
 
-## 🚀 Tecnologias que estudo e aplico
+## Tecnologias que estudo e aplico
 
 - Python
 - JavaScript

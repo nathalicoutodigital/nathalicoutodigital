@@ -16,7 +16,7 @@ Tenho experiência em atendimento ao público e área comercial, o que me trouxe
 - Automação (N8N, Make, Power Automate)
 - Power BI e análise de dados
 
-## 📂 Projetos
+## Projetos
 
 Aqui estão alguns projetos que estou desenvolvendo:
 
@@ -25,10 +25,10 @@ Aqui estão alguns projetos que estou desenvolvendo:
 - Projeto de IA (uso de APIs)
 - Dashboard de dados
 
-## 🎯 Objetivo
+## Objetivo
 Desenvolver e atuar na área de tecnologia, criando soluções práticas e eficientes.
 
-## 📫 Contato
+## Contato
 Tel.: (21) 96613-9419
 
 E-mail: nathalicouto.digital@gmail.com
